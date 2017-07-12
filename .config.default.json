@@ -1,0 +1,17 @@
+{
+  "port": 59487,
+  "verify_token": "",
+  "token": "",
+  "white_list": {
+    "1234569487": {
+      "name": "劉威良"
+    },
+    "14654165132": {
+      "name": "阿良良"
+    }
+  },
+  "sender_list": [
+    "foo@bar",
+    "for@fun.tw"
+  ]
+}

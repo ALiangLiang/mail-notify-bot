@@ -1,0 +1,12 @@
+{
+  "name": "mail-notify-bot",
+  "version": "1.0.0",
+  "description": "用來接收 Gmail 訊息後，利用 Messenger 作通知。",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
