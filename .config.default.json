@@ -1,5 +1,6 @@
 {
   "port": 59487,
+  "ssl_config_path": "/where/are/the/ssl.json",
   "verify_token": "",
   "token": "",
   "white_list": {
@@ -13,5 +14,6 @@
   "sender_list": [
     "foo@bar",
     "for@fun.tw"
-  ]
+  ],
+  "label_id": "Label_7"
 }
