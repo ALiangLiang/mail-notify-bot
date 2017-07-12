@@ -1,5 +1,5 @@
 {
-	"key": "/foo/bat/privkey.pem",
-	"cert": "/foo/bat/cert.pem",
-	"ca": "/foo/bat/chain.pem"
+	"key": "/where/is/the/privkey.pem",
+	"cert": "/where/is/the/cert.pem",
+	"ca": "/where/is/the/chain.pem"
 }
